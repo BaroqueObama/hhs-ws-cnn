@@ -1,7 +1,7 @@
 # HHS CS Workshop: CNNs
 Learn about Convolutional Neural Networks (CNNs).  
 Most of the code is taken from this [Kaggle](https://www.kaggle.com/code/yogeshrampariya/mnist-classification-using-lenet-on-pytorch) by [Yogesh Rampariya](https://github.com/yogizhere10).  
-[Workshop slides](https://github.com/BaroqueObama/hhs-ws-wiki-game/blob/main/GM9.pdf)   
+[Workshop slides](https://github.com/BaroqueObama/hhs-ws-cnn/blob/main/GM9.pdf)   
 Build a CNN model using Pytorch that classifies small images (either digits or clothing) into categories.  
 ## Code:
 ### Data
